@@ -1,0 +1,48 @@
+﻿body {
+    background-image: url('../img/88.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+input, select, table, textarea,th {
+    display: inline-block;
+    padding: 20px 30px;
+    border: 1px solid #b7b7b7;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-top:10px;
+    font: normal 16px/normal "Times New Roman", Times, serif;
+    color: rgba(0,142,198,1);
+    -webkit-box-shadow: 2px 2px 2px 0 rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 2px 0 rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 0 rgba(255,255,255,0.66);
+
+}
+
+input[type="button"]{
+    margin-left:50px;
+    margin-top:10px;
+}
+
+div{
+    margin-top:300px;
+    margin-left:400px;
+}
+
+label {
+    background: linear-gradient(rgba(0,142,198,1))
+}
+
+span {
+    font: normal normal bold 14px/2 Verdana, Geneva, sans-serif;
+    color: red;
+}
+
+.Error {
+    background: rgba(255,221,221,1);
+}
+
+.Espan {
+    font: normal normal bold 8px/2 Verdana, Geneva, sans-serif;
+    color: red;
+}
