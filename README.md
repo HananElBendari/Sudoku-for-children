@@ -3,4 +3,4 @@
 
 Simple Sudoku web game made with JavaScript.
 
-4*4 and 9*9 Levels"# Sudoku-for-children" 
+4 * 4 and 9 * 9 Levels"# Sudoku-for-children" 
