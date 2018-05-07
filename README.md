@@ -1,4 +1,6 @@
-"# Sudoku-for-children" 
 
-copyright https://github.com/HananElBendari
-https://www.linkedin.com/in/hanan-el-bendari/
+# Sudoku for children with images
+
+Simple Sudoku web game made with JavaScript.
+
+4*4 and 9*9 Levels"# Sudoku-for-children" 
